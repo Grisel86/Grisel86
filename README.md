@@ -3,7 +3,6 @@
 - 🔭 I’m currently teaching and mentoring to professionals of the IT world.
 - 👩🏻‍💻 Learning React Native, Javascript,React, Node, Python, Html and CSS. 
 - 📫 How to reach me: www.linkedin.com/in/f-grisel-gonzalez
-- 😄 Pronouns: She/Her
 - 🎮 I like videogames
  <div> 
     <a href="https://github.com/Grisel86">
