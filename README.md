@@ -3,7 +3,7 @@
 - 🔭 I’m currently teaching and mentoring to professionals of the IT world.
 - 👩🏻‍💻 Learning React Native, Javascript,React, Node, Python, Html and CSS. 
 - 📫 How to reach me: www.linkedin.com/in/f-grisel-gonzalez
-- 🎮 I like videogames
+- 🎮 I like videogames, to hear Music, go out with my dogs. 
  <div> 
     <a href="https://github.com/Grisel86">
     <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Grisel86&show_icons=true&theme=ocean_dark"/>
