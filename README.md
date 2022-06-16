@@ -1,7 +1,7 @@
 ### Hello ! 👋 I´m Gri 
 
 - 🔭 I’m currently teaching and mentoring to professionals of the IT world.
-- 👩🏻‍💻 Learning React Native, Javascript,React, Node, Python, Html and CSS. 
+- 👩🏻‍💻 Learning React,React Native, Node, Python, Html and CSS. 
 - 📫 How to reach me: https://www.linkedin.com/in/fabiana-grisel-gonzalez/
 - 🎮 I like videogames, to hear Music, improve my development knowledge.
  <div> 
