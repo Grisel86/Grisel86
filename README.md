@@ -1,5 +1,6 @@
 ### Hello ! 👋 I´m Gri 
 
+- DevOps - Linux / Terraform / Kubernetes / Docker 
 - 🔭 I’m currently teaching and mentoring to professionals of the IT world.
 - 👩🏻‍💻 Learning React,React Native, Node, Go.
 - 📫 How to reach me: https://www.linkedin.com/in/fabiana-grisel-gonzalez/
