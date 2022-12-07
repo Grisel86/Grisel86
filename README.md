@@ -1,7 +1,7 @@
 ### Hello ! 👋 I´m Gri 
 
-- DevOps - Linux / Terraform / Kubernetes / Docker 
-- 👩🏻‍💻 Learning Jenkins, Docker,Go.
+- DevOps - Linux / Terraform / AWS / Python
+- 👩🏻‍💻 Learning Jenkins, Docker,Go, Kubernetes, Docker 
 - 📫 How to reach me: https://www.linkedin.com/in/fabiana-grisel-gonzalez/
 - 🎮 I like videogames,music and horror movies.
  <div> 
