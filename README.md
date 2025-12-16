@@ -1,6 +1,6 @@
 ### Hello ! 👋 I´m Gri 
 
-- 👩🏻‍💻 Jenkins, Java,Typescript, Playwright, Selenium.
+- 👩🏻‍💻 Java,Typescript, Playwright, Selenium.
 - 📫 How to reach me: https://www.linkedin.com/in/fabiana-grisel-gonzalez/
 - 🎮 I like videogames,music, series and horror/thriller movies.
   <div>
